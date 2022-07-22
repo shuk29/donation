@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+*{
+    margin: 0;
+}
+p{
+    font-size: 15px;
+    text-align: center;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input {
+    height: 40px;
+    border-radius: 40px;
+    margin-top: 10px;
+    padding-left: 15px;
+}
+.first{
+    text-align: center;
+    background: url(donate-today-main/images/donation13.jpg);
+    background-size : cover;
+    background-repeat: no-repeat;
+    padding: 100px 300px;
+}
+.link-color{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.head{
+    color: black;
+}
+.para-color{
+    color: black;
+}
+.items{
+    margin: auto;
+    width: fit-content;
+    padding: 10px 10px;
+}
+.inblock{
+    display: inline-block;
+    width:100px;
+    height: 100px;
+    padding: 10px 10px;
+    background-color:gray;
+    text-align: center;
+    block-size: 300px 300px;
+    border-radius: 10px;
+    color: black;
+}
+.block{
+    display: inline-block;
+    width:100px;
+    height: 100px;
+    padding: 10px;
+    background-color:rgb(102, 95, 95);
+    text-align: center;
+    block-size: 300px 300px;
+    border-radius: 10px;
+    color: black;
+
+}
